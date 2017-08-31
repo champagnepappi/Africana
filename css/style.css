@@ -88,4 +88,7 @@
           font-weight: 700;
           padding-top: 30px;
      }
+     .header h1, .header p, .header button {
+          margin-top: 20px;
+     }
 
