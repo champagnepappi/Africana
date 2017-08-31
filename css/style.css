@@ -92,3 +92,8 @@
           margin-top: 20px;
      }
 
+     .header .btn {
+          border-radius: 0;
+          margin: 40px 20px;
+     }
+
