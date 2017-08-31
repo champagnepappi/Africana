@@ -76,3 +76,9 @@
           background-size: cover;
           color: #fff;
      }
+
+     .header img {
+          height: 350px;
+          width: 450px;
+          margin: 70px 0 0 40px;
+     }
