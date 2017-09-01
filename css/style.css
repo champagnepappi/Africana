@@ -97,3 +97,11 @@
           margin: 40px 20px;
      }
 
+     /* small device */
+     @media(max-width:768px) {
+         .header {
+             padding: 30px;
+             height: 750px;
+         }
+     }
+
