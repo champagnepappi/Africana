@@ -140,3 +140,19 @@
           font-size: 14px;
           padding-bottom: 40px;
      }
+
+     .services i {
+          height: 80px;
+          width: 80px;
+          font-size: 30px;
+          padding: 25px 20px;
+          border-radius: 50%;
+          background-color: #6699cc;
+          color: #fff;
+     }
+
+     @media(max-width: 768px) {
+         .services {
+             padding: 30px;
+         }
+     }
