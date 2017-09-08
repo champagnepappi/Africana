@@ -156,3 +156,12 @@
              padding: 30px;
          }
      }
+
+     /* PRICING */
+     
+     .pricing {
+          padding: 50px 0 80px;
+          text-align: center;
+          background-color: #3399ff;
+     }
+
