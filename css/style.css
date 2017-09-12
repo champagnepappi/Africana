@@ -242,6 +242,11 @@
           padding: 5px;
           font-size: 17px;
           border-radius: 50%;
+          background-color: #709963;
+          color: #fff;
+     }
+
+     .team a:hover i {
           background-color: #a0db8e;
      }
 
