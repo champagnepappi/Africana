@@ -230,3 +230,9 @@
           color: #737373;
      }
 
+     .team img {
+          height: 150px;
+          width: 150px;
+          margin-top: 80px;
+     }
+
