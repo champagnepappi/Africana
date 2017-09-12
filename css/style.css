@@ -250,3 +250,8 @@
           background-color: #a0db8e;
      }
 
+     @media(max-width: 768px) {
+         .team {
+             padding: 30px;
+         }
+     }
