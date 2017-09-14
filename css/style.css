@@ -280,3 +280,7 @@
           margin: 40px 0;
           transition: all 500ms ease-in-out;
      }
+
+     .clients li:hover img {
+          opacity: 1;
+     }
