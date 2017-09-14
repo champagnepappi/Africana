@@ -255,3 +255,21 @@
              padding: 30px;
          }
      }
+
+     /* CLIENTS*/
+
+     .clients {
+          padding: 50px 0 80px;
+          background-color: #3399ff;
+          text-align: center;
+          color: #fff;
+     }
+
+     .clients h2 {
+          color: #5e5e5e;
+     }
+
+     .clients p {
+          padding-bottom: 40px;
+     }
+
