@@ -327,3 +327,7 @@
           background-color: #a85959 !important;
         color: #fff !important;  
      }
+
+     .inner-footer {
+         background-color: #000;
+     }
