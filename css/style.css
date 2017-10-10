@@ -330,34 +330,8 @@
 
      /*FOOTER */
 
-     .inner-footer {
-         background-color: #000;
-         padding: 100px 0;
-     }
-
-     .widgetheading {
-          font-size: 24px;
-          color: #fff;
-          font-weight: 100px;
-          margin-top: 0;
-          margin-bottom: 40px;
-     }
-
-     .inner-footer ul li, a {
-         list-style: none;
-     }
-
-     .l-posts h3 {
-          margin-left: 40px;
-     }
-     
-     .l-posts li a {
-          font-size: 14px;
-          color: #8a8d94;
-          margin: 0;
-          font-weight: 300;
-          border-bottom: 1px solid #2c2d2e;
-          padding-bottom: 10px;
-          margin-bottom: 10px;
-          display: block;
+     .footer {
+         padding: 30px;
+         color: #cccccc;
+         background-color: #222222;
      }
